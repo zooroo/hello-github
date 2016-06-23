@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #define LEDPIN 13
 
 void setup(){
@@ -11,3 +12,5 @@ void loop(){
   delay(1000);
 }
 
+=======
+>>>>>>> parent of fc54e70... programming
